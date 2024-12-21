@@ -14,7 +14,7 @@ Todo is a web application for task management developed in JavaScript using Reac
 
 ## Technical Details
 - **Technologies:** Implemented using React with class components and Vite for building.
-- **Styling:** The application is styled using CSS Modules / SCSS / TailwindCSS.
+- **Styling:** The application is styled using CSS Modules
 - **Optimization:** Efficient handling of large task lists with minimal re-renders.
 
 ## Installation
